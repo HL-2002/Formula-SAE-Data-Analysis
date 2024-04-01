@@ -1,4 +1,4 @@
-Place,CarNum,Team,Average Adjusted Laptime,Laps Completed,FuelUsed (ltr),Adjusted CO2 (kg),Average Adjusted CO2 perLap,FuelType,Fuel Efficiency Factor,Fuel Efficiency Score
+Place,CarNum,Team,Average Adjusted Laptime,Laps Completed,FuelUsed (ltr),Adjusted CO2 (kg),Average Adjusted CO2 perLap,Fuel Type,Fuel Efficiency Factor,Fuel Efficiency Score
 1,66,South Dakota State Univ,195.31,10,3.076,5.075,0.5075,E85,0.697,100
 2,55,Univ of North Carolina - Charlotte,139.59,10,3.115,7.195,0.7195,100,0.688,99.2
 3,80,Univ of Calif - San Diego,139.829,10,3.242,7.489,0.7489,93,0.66,96.5
